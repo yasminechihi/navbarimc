@@ -1,0 +1,28 @@
+.navbar ul {
+    list-style-type: none;
+    background-color: rgb(98, 155, 204);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display:block;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: cadetblue; 
+}
+.navbar li{
+    float: left;
+}
+.logo img {
+    width: 30px;
+    height: 25px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
